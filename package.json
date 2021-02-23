@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^1.2.2"
+  },
+  "dependencies": {
+    "@studydefi/money-legos": "^2.4.1",
+    "ethers": "^5.0.31"
+  }
+}
