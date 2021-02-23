@@ -118,7 +118,7 @@ contract IOneSplitConsts {
 //         returns(uint256 returnAmount);
 // }
 
-contract DydxFlashloaner is ICallee, DydxFlashloanBase {
+contract DydxFlashLoaner is ICallee, DydxFlashloanBase {
 
     struct MyCustomData {
         address loanedToken;
